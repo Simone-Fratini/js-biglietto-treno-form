@@ -1,4 +1,4 @@
-
+"use strict";
 
 const standardPrice = 0.21;
 const juniorPrice = 0.21 - (0.21 * 0.20);
